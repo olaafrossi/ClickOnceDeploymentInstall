@@ -1,0 +1,2 @@
+# ClickOnceDeploymentInstall
+installer site
