@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://olaafrossi.github.io/ClickOnceDeploymentInstall/MSIXProject.appinstaller"
-	Version="1.0.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="1.0.1.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="8449ce8c-76fa-4d58-9510-9915f6ca9b84"
-		Version="1.0.0.0"
+		Version="1.0.1.0"
 		Publisher="CN=&quot;Three Byte Intermedia, Inc.&quot;, O=&quot;Three Byte Intermedia, Inc.&quot;, L=New York, S=New York, C=US"
-		Uri="https://olaafrossi.github.io/ClickOnceDeploymentInstall/MSIXProject_1.0.0.0/MSIXProject_1.0.0.0_x64.msixbundle" />
+		Uri="https://olaafrossi.github.io/ClickOnceDeploymentInstall/MSIXProject_1.0.1.0/MSIXProject_1.0.1.0_x64.msixbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0" />
